@@ -33,7 +33,9 @@ Implement free drawing and a simple shape recognition algorithm, capable of reco
 
 ## Solved tasks
 
-As of today (28.03.2021) I have solved all tasks regarding the compulsory task.
+As of today (28.03.2021), I have solved all tasks regarding the compulsory task.
+
+On 2nd of April I have solved the first 2 tasks in the optional part, and I have also tried to do the free drawing task. However, because of the lack of time (and skill) I have skipped the last task after several unsuccessful  attempts.
 ## Build and run
 
 To compile and run my project I have typed the following commands in the terminal:
